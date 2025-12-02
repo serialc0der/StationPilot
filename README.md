@@ -8,7 +8,7 @@ It unifies radio control, rotators, amplifiers, antenna switching, audio routing
 🚀 Features
 🎛️ Radio Control
 
-Ultra-low-latency CAT control
+Ultra-low-latency CAT control (Built in hamlib)
 
 Slice, frequency, filter, and mode adjustments
 
